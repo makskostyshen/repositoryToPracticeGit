@@ -1,1 +1,3 @@
 It is an educational message. Contains no important information
+
+Second message. This change should be in ticket-666 branch
